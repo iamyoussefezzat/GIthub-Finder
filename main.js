@@ -160,6 +160,3 @@ function formatDate(dateString) {
     day: "numeric",
   });
 }
-
-searchInput.value = "burakorkmez";
-searchUser();
